@@ -11,7 +11,7 @@ The project implements role-based access control, distinguishing between admin u
 ## Step1 --> Clone the repository:
 
 ```bash
-git clone https://github.com/Abubakarask/railwaymanagementassignment.git
+git clone https://github.com/apurba-striker/railwaymanagementassignment
 ```
 
 ## Step2 --> Get(Retrieve) Files which are not present in zipped folder
